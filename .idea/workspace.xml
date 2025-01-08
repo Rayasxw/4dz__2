@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fea0f8f-5296-4e20-94a7-6c9d7564d231" name="Changes" comment="" />
+    <list default="true" id="6fea0f8f-5296-4e20-94a7-6c9d7564d231" name="Changes" comment="1dz">
+      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/header/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/hoc/Container/Container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/list/List.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/text/Text.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/title/Title.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/mainPage/MainPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSX File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,12 +43,13 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Рабочий стол/GEEKS/geeks__3/project/project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/OneDrive/Рабочий стол/GEEKS/geeks__4/lesson2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.1.2\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -53,11 +71,27 @@
       <updated>1735820109409</updated>
       <workItem from="1735820112031" duration="22000" />
       <workItem from="1735820136357" duration="4176000" />
-      <workItem from="1735837528527" duration="691000" />
+      <workItem from="1735837528527" duration="1728000" />
+      <workItem from="1736150347370" duration="1161000" />
+      <workItem from="1736161046083" duration="757000" />
+      <workItem from="1736162095422" duration="4315000" />
     </task>
+    <task id="LOCAL-00001" summary="1dz">
+      <option name="closed" value="true" />
+      <created>1735995040532</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735995040532</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1dz" />
+    <option name="LAST_COMMIT_MESSAGE" value="1dz" />
   </component>
 </project>
