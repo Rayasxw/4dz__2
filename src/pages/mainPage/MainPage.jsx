@@ -8,7 +8,6 @@ function MainPage() {
         <div>
             <About info={{title: "Some Title", body:"Some body"}}/>
             <Title text="Hello world"/>
-
         </div>
     );
 }
